@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 var testPacketGeneve1 = []byte{

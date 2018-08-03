@@ -12,7 +12,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 func decodePrismValue(data []byte, pv *PrismValue) {

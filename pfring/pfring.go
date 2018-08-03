@@ -41,7 +41,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 const errorBufferSize = 256

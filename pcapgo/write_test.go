@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 func TestWriteHeader(t *testing.T) {

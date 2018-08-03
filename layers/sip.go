@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 // SIPVersion defines the different versions of the SIP Protocol

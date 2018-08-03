@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 	"golang.org/x/sys/unix"
 )
 

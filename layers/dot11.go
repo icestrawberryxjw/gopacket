@@ -16,7 +16,7 @@ import (
 	"hash/crc32"
 	"net"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 // Dot11Flags contains the set of 8 flags in the IEEE 802.11 frame control

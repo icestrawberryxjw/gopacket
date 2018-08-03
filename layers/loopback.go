@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 // Loopback contains the header for loopback encapsulation.  This header is

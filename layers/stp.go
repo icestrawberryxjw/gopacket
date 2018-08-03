@@ -7,7 +7,7 @@
 package layers
 
 import (
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 // STP decode spanning tree protocol packets to transport BPDU (bridge protocol data unit) message.

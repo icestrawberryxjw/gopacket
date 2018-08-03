@@ -2,15 +2,15 @@ language: go
 before_install:
  - sudo apt-get install libpcap-dev
 install:
- - go get github.com/icestrawberrxjw/gopacket
- - go get github.com/icestrawberrxjw/gopacket/layers
- - go get github.com/icestrawberrxjw/gopacket/tcpassembly
- - go get github.com/icestrawberrxjw/gopacket/reassembly
+ - go get github.com/icestrawberryxjw/gopacket
+ - go get github.com/icestrawberryxjw/gopacket/layers
+ - go get github.com/icestrawberryxjw/gopacket/tcpassembly
+ - go get github.com/icestrawberryxjw/gopacket/reassembly
 script:
- - go test github.com/icestrawberrxjw/gopacket
- - go test github.com/icestrawberrxjw/gopacket/layers
- - go test github.com/icestrawberrxjw/gopacket/tcpassembly
- - go test github.com/icestrawberrxjw/gopacket/reassembly
+ - go test github.com/icestrawberryxjw/gopacket
+ - go test github.com/icestrawberryxjw/gopacket/layers
+ - go test github.com/icestrawberryxjw/gopacket/tcpassembly
+ - go test github.com/icestrawberryxjw/gopacket/reassembly
  - ./.travis.gofmt.sh
  - ./.travis.govet.sh
  - ./.travis.golint.sh

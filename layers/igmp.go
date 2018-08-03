@@ -13,7 +13,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 )
 
 type IGMPType uint8

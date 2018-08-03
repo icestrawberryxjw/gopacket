@@ -8,7 +8,7 @@ package layers
 
 import (
 	_ "fmt"
-	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberryxjw/gopacket"
 	"reflect"
 	"testing"
 )
