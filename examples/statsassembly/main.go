@@ -15,11 +15,11 @@ package main
 
 import (
 	"flag"
-	"github.com/google/gopacket"
-	"github.com/google/gopacket/examples/util"
-	"github.com/google/gopacket/layers"
-	"github.com/google/gopacket/pcap"
-	"github.com/google/gopacket/tcpassembly"
+	"github.com/icestrawberrxjw/gopacket"
+	"github.com/icestrawberrxjw/gopacket/examples/util"
+	"github.com/icestrawberrxjw/gopacket/layers"
+	"github.com/icestrawberrxjw/gopacket/pcap"
+	"github.com/icestrawberrxjw/gopacket/tcpassembly"
 	"log"
 	"time"
 )

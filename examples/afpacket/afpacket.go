@@ -14,9 +14,9 @@ import (
 	"os"
 	"runtime/pprof"
 
-	"github.com/google/gopacket/afpacket"
+	"github.com/icestrawberrxjw/gopacket/afpacket"
 
-	_ "github.com/google/gopacket/layers"
+	_ "github.com/icestrawberrxjw/gopacket/layers"
 )
 
 var (
