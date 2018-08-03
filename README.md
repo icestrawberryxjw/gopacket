@@ -1,3 +1,6 @@
+Improved the packet processing capabilities of Google/gopacket.
+
+
 # GoPacket
 
 This library provides packet decoding capabilities for Go.
